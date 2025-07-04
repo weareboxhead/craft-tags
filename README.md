@@ -1,17 +1,18 @@
 ![Tags](./resources/tags-banner.png)
 
 # Tags
-A tag manager for Craft 3
+
+A tag manager for Craft 5
 
 ## Key Features
 
-- *Create, Update, & Delete Tags*
-- *Replace Tags*
+-   _Create, Update, & Delete Tags_
+-   _Replace Tags_
 
 ## Installation
 
-- Install via the Plugin Store by searching for **Tags**
-- Install via composer with `composer require ether/tags`
+-   Install via the Plugin Store by searching for **Tags**
+-   Install via composer with `composer require ether/tags`
 
 ## Screenshots
 
